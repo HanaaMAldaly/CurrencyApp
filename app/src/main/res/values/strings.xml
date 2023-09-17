@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string name="currecny_convert_title">Currency\n</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="details">Details</string>
+    <string name="history">History</string>
+    <string name="recent_rates">Recent Rate</string>
+    <string name="retry">Retry</string>
+</resources>
